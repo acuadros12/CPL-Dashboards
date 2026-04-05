@@ -22,7 +22,7 @@ This report provides a strategic 4-year view of commercial performance across al
 
 ### Page 1 · Cover
 
-![Cover](masivo-slide-01.jpg)
+![Cover](images/masivo-slide-01.jpg)
 
 Entry slide with branding, report title, and last data refresh timestamp. Designed for executive distribution.
 
@@ -30,7 +30,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 
 ### Page 2 · Sales by City — National Overview (Ventas x Ciudad)
 
-![Sales by City - Overview](masivo-slide-02.jpg)
+![Sales by City - Overview](images/masivo-slide-02.jpg)
 
 **Purpose:** High-level national view of total rolls sold and total revenue in Bolivianos across fiscal years 2021–2025.
 
@@ -45,7 +45,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 
 ### Page 3 · Sales by City — Department Detail (Ventas x Ciudad)
 
-![Sales by City - Detail](masivo-slide-03.jpg)
+![Sales by City - Detail](images/masivo-slide-03.jpg)
 
 **Purpose:** Department-level breakdown of sales performance across all 4 fiscal years, with growth percentage benchmarks.
 
@@ -62,7 +62,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 
 ### Page 4 · Sales by Brand (Ventas x Marca)
 
-![Sales by Brand](masivo-slide-04.jpg)
+![Sales by Brand](images/masivo-slide-04.jpg)
 
 **Purpose:** Brand portfolio performance analysis — identifying growth brands, stable brands, and declining brands over 4 fiscal years.
 
@@ -80,7 +80,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 
 ### Page 5 · Sales by Category and Fiber Type (Ventas x Categoría y Fibra)
 
-![Sales by Category and Fiber](masivo-slide-05.jpg)
+![Sales by Category and Fiber](images/masivo-slide-05.jpg)
 
 **Purpose:** Volume analysis by product category (packs sold) and by fiber type (rolls sold) across all fiscal years.
 
@@ -96,7 +96,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 
 ### Page 6 · Sales by Channel (Ventas x Canal)
 
-![Sales by Channel](masivo-slide-06.jpg)
+![Sales by Channel](images/masivo-slide-06.jpg)
 
 **Purpose:** Channel strategy analysis showing performance evolution across Distributor, Sales Force, and Modern Trade channels.
 
@@ -111,7 +111,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 
 ### Page 7 · Annual Budget (Presupuesto Anual)
 
-![Annual Budget](masivo-slide-07.jpg)
+![Annual Budget](images/masivo-slide-07.jpg)
 
 **Purpose:** Monthly budget vs. actuals comparison across two fiscal periods (2024–25 and 2025–26 target).
 
@@ -126,7 +126,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 
 ### Page 8 · Fiber Projection (Proyección Fibra)
 
-![Fiber Projection](masivo-slide-08.jpg)
+![Fiber Projection](images/masivo-slide-08.jpg)
 
 **Purpose:** Forward-looking projection of sales volume by fiber type (Celulosa, Reciclado, Híbrido) through fiscal year 2025–26.
 
@@ -141,7 +141,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 
 ### Page 9 · Evolution by Family (Evolución x Familia)
 
-![Evolution by Family](masivo-slide-09.jpg)
+![Evolution by Family](images/masivo-slide-09.jpg)
 
 **Purpose:** 100% stacked view of product family mix evolution over the 4-year period, revealing shifts in portfolio composition.
 
@@ -151,7 +151,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 
 ### Page 10 · Evolution by Category (Ev x Categoría)
 
-![Evolution by Category](masivo-slide-10.jpg)
+![Evolution by Category](images/masivo-slide-10.jpg)
 
 **Purpose:** Multi-line trend analysis of volume and revenue evolution by individual product category across the full historical period.
 
