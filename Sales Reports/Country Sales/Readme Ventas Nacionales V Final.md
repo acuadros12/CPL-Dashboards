@@ -21,14 +21,14 @@ This report was designed to provide real-time visibility into commercial perform
 ---
 
 ### Page 1 · Cover
-![Cover](slide-01.jpg)
+![Cover](images/slide-01.jpg)
 
 Entry slide with branding, report title, and last data refresh timestamp. Designed for executive distribution and quick identification of report version.
 
 ---
 
 ### Page 2 · Budget vs. Progress (Presup Vs. Avance)
-![Budget vs Progress](slide-02.jpg)
+![Budget vs Progress](images/slide-02.jpg)
 
 **Purpose:** National overview of sales performance vs. monthly budget targets.
 
@@ -46,7 +46,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 3 · Detailed Product Family (Familia Detallada)
-![Familia Detallada](slide-03.jpg)
+![Familia Detallada](images/slide-03.jpg)
 
 **Purpose:** Breakdown of sales performance by product family and region using pivot tables.
 
@@ -56,7 +56,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 4 · Budget Progress by SKU (Avance Presupuesto x SKU)
-![Avance x SKU](slide-04.jpg)
+![Avance x SKU](images/slide-04.jpg)
 
 **Purpose:** Granular tracking of budget compliance at the individual product (SKU) level.
 
@@ -66,7 +66,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 5 · Historical Sales (Ventas Históricas)
-![Ventas Históricas](slide-05.jpg)
+![Ventas Históricas](images/slide-05.jpg)
 
 **Purpose:** Trend analysis of sales over time, allowing year-over-year comparison.
 
@@ -76,7 +76,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 6 · Sales by Department (Ventas x Dpto.)
-![Ventas x Dpto](slide-06.jpg)
+![Ventas x Dpto](images/slide-06.jpg)
 
 **Purpose:** Geographic performance analysis showing total sales and evolution by department.
 
@@ -86,7 +86,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 7 · Daily Sales (Ventas Diarias)
-![Ventas Diarias](slide-07.jpg)
+![Ventas Diarias](images/slide-07.jpg)
 
 **Purpose:** Day-by-day sales tracking in rolls (physical units), enabling intra-month performance monitoring.
 
@@ -96,7 +96,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 8 · Customers (Clientes)
-![Clientes](slide-08.jpg)
+![Clientes](images/slide-08.jpg)
 
 **Purpose:** Customer base analysis by salesperson, region, channel and department.
 
@@ -106,7 +106,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 9 · Supervisor Performance (Rend. x Supervisor)
-![Rend. x Supervisor](slide-09.jpg)
+![Rend. x Supervisor](images/slide-09.jpg)
 
 **Purpose:** Performance ranking and tracking of sales supervisors against their targets.
 
@@ -116,7 +116,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 10 · Daily Report by Supervisor (Reporte Diario x Sup)
-![Reporte Diario x Sup](slide-10.jpg)
+![Reporte Diario x Sup](images/slide-10.jpg)
 
 **Purpose:** Operational daily report for supervisors showing volume sold, average price, and daily sales evolution.
 
@@ -126,7 +126,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 11 · Sales Force Project Performance (Rend. FFVV Proyecto)
-![Rend. FFVV Proyecto](slide-11.jpg)
+![Rend. FFVV Proyecto](images/slide-11.jpg)
 
 **Purpose:** Tracking of the field sales force performance against project-specific targets.
 
@@ -136,7 +136,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 12 · Cochabamba Store (Tienda CBBA)
-![Tienda CBBA](slide-12.jpg)
+![Tienda CBBA](images/slide-12.jpg)
 
 **Purpose:** Dedicated dashboard for the Cochabamba retail store with daily sales, fiber mix, and key KPIs.
 
@@ -146,7 +146,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 13 · Accounts Receivable (CXC)
-![CXC](slide-13.jpg)
+![CXC](images/slide-13.jpg)
 
 **Purpose:** Accounts receivable overview showing outstanding balances by region, channel and date.
 
@@ -156,7 +156,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 14 · Historical Sales by SKU (Ventas Históricas x SKU)
-![Ventas Históricas x SKU](slide-14.jpg)
+![Ventas Históricas x SKU](images/slide-14.jpg)
 
 **Purpose:** Long-term historical sales trends broken down to the individual SKU level.
 
@@ -166,7 +166,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 15 · Daily Comparison (Comparativo Diario)
-![Comparativo Diario](slide-15.jpg)
+![Comparativo Diario](images/slide-15.jpg)
 
 **Purpose:** Day-over-day comparison of sales versus same period last month (MA) and same period last year (AA).
 
@@ -176,7 +176,7 @@ Entry slide with branding, report title, and last data refresh timestamp. Design
 ---
 
 ### Page 16 · Closing Trend by SKU (Tendencia Cierre x SKU)
-![Tendencia Cierre x SKU](slide-16.jpg)
+![Tendencia Cierre x SKU](images/slide-16.jpg)
 
 **Purpose:** Month-end closing forecast at the SKU level, enabling proactive commercial action before the period closes.
 
