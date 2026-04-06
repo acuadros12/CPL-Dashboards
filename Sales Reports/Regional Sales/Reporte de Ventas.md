@@ -1,4 +1,4 @@
-# Sales Report 2025 — Power BI Dashboard Portfolio
+# Operrative Sales Report 2025 — Power BI Dashboard Portfolio
 
 > **Tool:** Power BI Service &nbsp;|&nbsp; **Domain:** FMCG / Sales Analytics &nbsp;|&nbsp; **Pages:** 29
 
@@ -142,7 +142,7 @@ Point-of-sale analysis by zone. Dual pivot tables and a clustered column chart s
 
 ![POS – Distribution Managers](slides/slide-22.jpg)
 
-Point-of-sale view managed by distribution managers. Includes dual pivot tables and a shape map for geographic visualization.
+Point-of-sale view managed by district. Includes dual pivot tables and a shape map for geographic visualization.
 
 ---
 
