@@ -1,4 +1,4 @@
-# Operrative Sales Report 2025 — Power BI Dashboard Portfolio
+# Operative Sales Report 2025 — Power BI Dashboard Portfolio
 
 > **Tool:** Power BI Service &nbsp;|&nbsp; **Domain:** FMCG / Sales Analytics &nbsp;|&nbsp; **Pages:** 29
 
